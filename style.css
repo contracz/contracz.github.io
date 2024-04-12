@@ -26,14 +26,17 @@ html, body {
 #song-player-1 {
     margin-top: 10px;
     margin-left: 10px;
+    cursor: none;
 }
 
 #song-player-2 {
     margin-top: -40px;
+    cursor: none;
 }
 
 #song-player-3 {
     margin-top: -40px;
+    cursor: none;
 }
 
 
